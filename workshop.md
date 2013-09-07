@@ -6,11 +6,11 @@ saying: Workshop
 # Agenda
 
 * Part 1: concepts, vocabulary, and the local repository
-   * Prezi
+   * [Prezi](http://prezi.com/m_s_g83sgja4/git-illuminated-part-1/)
    * Exercises
    * A solution
 * Part 2: remotes, rebases, and changing history
-   * Prezi
+   * [Prezi](http://prezi.com/ohbicklatr7y/git-illuminated-part-2/)
    * Exercises
    * A solution
 * Part 3: workflows
